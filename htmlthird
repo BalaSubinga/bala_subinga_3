@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Bala Subinga</title>
+    </head>
+    <body bgcolor="black" style="color:bisque;">
+    <h1> Bala Subinga</h1>
+    <p></p>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, doloribus dolor quidem minima itaque impedit quos molestiae eveniet voluptates nobis officia rerum eos dicta provident sint fugiat soluta inventore. Nulla harum ex perspiciatis placeat officiis illum fuga necessitatibus dolorem natus aperiam, ipsam debitis nostrum quaerat earum enim neque accusamus. Eligendi!
+    <h2>info</h2>
+    <ul>
+        <li><b>name</b></li>
+        <li>dep</li>
+        <li><i>year</i></li>
+    </ul>
+    <h3> times of day</h3>
+    <ol type="1">
+        <li> <b>morning</b> </li>
+        <li>evening</li>
+        <li>night
+        </ol>
+        
+
+
+    </body>
+</html>
